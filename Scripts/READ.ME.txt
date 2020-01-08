@@ -1,0 +1,14 @@
+Main file: clustering.py
+Testing clustering on optical ratios: clustering_test_optical_ratio.ipynb
+Overview of DTW: DTW.ipynb
+Best attempy at classification: curve_length_knn.ipynb [Not well put but hopefully understandable]
+Trying LSTM neural networks for mutilabel classification: LSTM.ipynb
+
+Manually made labels under the label tag of .txt files
+
+A lot of iPython notebooks which are hopefully understandable after going through clustering.py
+
+Included the poster produced.
+
+Was an amazing experience working on this project and cannot thank the ExoMars team enough.
+Especially Graham Sellers (spelt it right this time!), Jon Mason and Manish Patel. Thank you!
